@@ -1,3 +1,6 @@
+#Note: The URL has been redacted from this file as it is the private Dev server of Geocode Earth. Please retrieve your own API URL from Geocode Earth,
+#or contact the team with questions
+
 import requests
 s = requests.Session() #start session
 def request_geo(data):
