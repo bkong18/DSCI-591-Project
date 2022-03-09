@@ -2,6 +2,8 @@
 
 ## Group Name: SafeCity
 
+## DSCI 592: Capstone II Project
+
 ### Team Members 
 
 ### Pranav Menon
@@ -31,7 +33,7 @@ Crime is a severe issue that affects society negatively in many ways. In the Uni
 
 The objective of this project is to do an analysis on crimes in New York city to allow police, citizens,and tourists to better maneuver around the city. By understanding the various relations to crimes and by understanding the locations of these crimes, a better and efficient system could be created to track crime and keep people and their property safe. The analysis can then be further applied to any city around the world.
 
-We will be investigating New York City by examining data from each of the five boroughs; the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. The locations of each crime within the crime data provided by the City of New York are based in latitude and longitude. In order to get a better understanding of the exact location, we will convert this location to a street address using reverse geocoding. Additionally, we are also conducting analysis on what types of crimes are common and dangerous in each section in order to find specific solutions to those crimes by producing an analysis report with graphs, charts, and explanation.
+We will be investigating New York City by examining data from each of the five boroughs; the Bronx, Brooklyn, Manhattan, Queens, and Staten Island. The locations of each crime within the crime data provided by the City of New York are based in latitude and longitude. In order to get a better understanding of the exact location, we will convert this location to a street address using reverse geocoding. Additionally, we are also conducting analysis on what types of crimes are common and dangerous in each section in order to find specific solutions to those crimes by producing an analysis report with graphs, charts, and explanation. We will also apply machine learning models to investigate more about New York City's crime dataset. 
 
 ## Dataset Description 
 
