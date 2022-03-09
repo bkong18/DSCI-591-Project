@@ -45,5 +45,9 @@ Geocode Earth development server was used to obtain information on the street ad
 
 
 ## Files in Github
+### Cap2_MLP(tensorflow).ipynb
+
+
+### Cap2_classification.ipynb
 
 
