@@ -55,42 +55,81 @@ The code within "Cap2_classification.ipynb" contains additional preprocessing to
 
 ### NY_Bronx_ML (1) Data Processing.ipynb
 
+The file contains the data processing of Bronx dataset. 
+
 ### NY_Bronx_ML (2) Clustering.ipynb
+
+The file contains the clustering of Bronx dataset. 
 
 ### NY_Bronx_ML (3) Regression.ipynb
 
+The file contains the regression of Bronx dataset. 
+
 ### NY_Bronx_map.png
+
+The file contains the image file of Bronx map. 
 
 ### NY_Brooklyn.png
 
+The file contains the image file of Brooklyn map.
+
 ### NY_Brooklyn_ML (1) Data Processing.ipynb
+
+The file contains the data processing of Brooklyn dataset. 
 
 ### NY_Brooklyn_ML (2) Clustering.ipynb
 
+The file contains the clustering of Brooklyn dataset. 
+
 ### NY_Brooklyn_ML (3) Regression.ipynb
+
+The file contains the regression of Brooklyn dataset. 
 
 ### NY_Island_ML (1) Data Processing.ipynb
 
+The file contains the data processing of Staten Island dataset.
+
 ### NY_Island_ML (2) Clustering.ipynb
+
+The file contains the clustering of Staten Island dataset.
 
 ### NY_Island_ML (3) Regression.ipynb
 
+The file contains the regression of Staten Island dataset.
+
 ### NY_Island_map.png
+
+The file contains the image file of Staten Island map.
 
 ### NY_Manhattan_ML (1) Data Processing.ipynb
 
+The file contains the data processing of Manhattan dataset.
+
 ### NY_Manhattan_ML (2) Clustering.ipynb
+
+The file contains the clustering of Manhattan dataset.
 
 ### NY_Manhattan_ML (3) Regression.ipynb
 
+The file contains the Regression of Manhattan dataset.
+
 ### NY_Queens_ML (1) Data Processing.ipynb
+
+The file contains the data processing of Queens dataset.
 
 ### NY_Queens_ML (2) Clustering.ipynb
 
+The file contains the clustering of Queens dataset.
+
 ### NY_Queens_ML (3) Regression.ipynb
+
+The file contains the regression of Queens dataset.
 
 ### NY_Queens_map.png
 
+The file contains the image file of Queens map.
+
 ### NY_manhattan.png
 
+The file contains the image file of Manhattan map.
 
