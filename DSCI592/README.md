@@ -47,8 +47,11 @@ Geocode Earth development server was used to obtain information on the street ad
 ## Files in Github
 ### Cap2_MLP(tensorflow).ipynb
 
+The file "Cap2_MLP(tensorflow)" contains code to build our multilayer perceptron from the pre-processed datasets in "Cap2_classification.ipynb". Please ensure to run the initial file before attempting to build the multilayer perceptron. The file was designed to run on Google Colab, so file upload code is embedded within.
 
 ### Cap2_classification.ipynb
+
+The code within "Cap2_classification.ipynb" contains additional preprocessing to integrate the NYC neighborhood dataset with our current NYPD dataset as well as additional pre-processing techniques in order to prepare the dataset for use in machine learning algorithms. The file also contains code for building multiple ML models such as Naive Bayes, Decision Trees, Random Forests etc.
 
 ### NY_Bronx_ML (1) Data Processing.ipynb
 
