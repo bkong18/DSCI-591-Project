@@ -50,4 +50,44 @@ Geocode Earth development server was used to obtain information on the street ad
 
 ### Cap2_classification.ipynb
 
+### NY_Bronx_ML (1) Data Processing.ipynb
+
+### NY_Bronx_ML (2) Clustering.ipynb
+
+### NY_Bronx_ML (3) Regression.ipynb
+
+### NY_Bronx_map.png
+
+### NY_Brooklyn.png
+
+### NY_Brooklyn_ML (1) Data Processing.ipynb
+
+### NY_Brooklyn_ML (2) Clustering.ipynb
+
+### NY_Brooklyn_ML (3) Regression.ipynb
+
+### NY_Island_ML (1) Data Processing.ipynb
+
+### NY_Island_ML (2) Clustering.ipynb
+
+### NY_Island_ML (3) Regression.ipynb
+
+### NY_Island_map.png
+
+### NY_Manhattan_ML (1) Data Processing.ipynb
+
+### NY_Manhattan_ML (2) Clustering.ipynb
+
+### NY_Manhattan_ML (3) Regression.ipynb
+
+### NY_Queens_ML (1) Data Processing.ipynb
+
+### NY_Queens_ML (2) Clustering.ipynb
+
+### NY_Queens_ML (3) Regression.ipynb
+
+### NY_Queens_map.png
+
+### NY_manhattan.png
+
 
