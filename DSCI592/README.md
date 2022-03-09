@@ -46,29 +46,4 @@ Geocode Earth development server was used to obtain information on the street ad
 
 ## Files in Github
 
-### NY_crime_data_acqusition_Final.ipynb
-
-This file contains the python code for getting crime data for 5 years (2016 - 2020). 
-
-### api_call.py
-
-This file contains the code to get API request for the reverse geocoding. 
-
-Note: The URL has been redacted from this file as it is the private Dev server of Geocode Earth. Please retrieve your own API URL from Geocode Earth,or contact the team with questions
-
-### NY_crime_data_pre-processing_Final.ipynb
-
-This file contains the python code for the data pre-processing that involves data cleaning and data imputation of the datasets. 
-
-### DSCI591 EDA.ipynb
-
-This file contains python codes for EDAs for New York Crime analysis. 
-
-Note: This python code requires the csv file called ny_fin.csv. 
-
-### Tableau Workbook Link
-
-This file contains the tableau link that shows EDAs for New York Crime analysis.
-
-Note: Due to tableau files not being able to upload into github, we provided a tableau link that shows the EDAs for New York Crime analysis. 
 
